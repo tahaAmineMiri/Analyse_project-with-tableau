@@ -227,16 +227,14 @@ The horizontal bar chart reveals the following engagement hierarchy (in descendi
 This final visualization completes the dashboard by providing a clear overview of user engagement patterns, helping stakeholders understand user behavior and identify areas for improvement in the platform's engagement strategy.
 
 
-## Detailed Instructions
+## Instruction Video
+The **Instruction Video** provides a detailed walkthrough of the task, outlining the objectives, steps, and key points necessary for understanding the problem. It serves as a guide to help viewers approach the solution systematically.
 
-![chart1.png](instruction_output/frame_0001.jpg)
-![chart2.png](instruction_output/frame_0005.jpg)
-![chart3.png](instruction_output/frame_0013.jpg)
-![chart3.png](instruction_output/frame_0021.jpg)
-![chart3.png](instruction_output/frame_0028.jpg)
-![chart3.png](instruction_output/frame_0034.jpg)
-![chart3.png](instruction_output/frame_0040.jpg)
-![chart3.png](instruction_output/frame_0041.jpg)
-![chart3.png](instruction_output/frame_0042.jpg)
-![chart3.png](instruction_output/frame_0043.png)
-![chart3.png](instruction_output/frame_0047.jpg)
+[![Instruction Video Thumbnail](./thumbnail/instruction.png)](./instruction.mp4)
+
+---
+
+## Solution Video
+The **Solution Video** demonstrates the complete resolution of the task presented in the Instruction Video. It includes step-by-step explanations, highlighting critical aspects of the implementation or reasoning.
+
+[![Solution Video Thumbnail](./thumbnail/solution.png)](./Solution.mp4)
