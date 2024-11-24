@@ -230,11 +230,11 @@ This final visualization completes the dashboard by providing a clear overview o
 ## Instruction Video
 The **Instruction Video** provides a detailed walkthrough of the task, outlining the objectives, steps, and key points necessary for understanding the problem. It serves as a guide to help viewers approach the solution systematically.
 
-[![Instruction Video Thumbnail](./thumbnail/instruction.png)](./instruction.mp4)
+[![Instruction Video Thumbnail](./thumbnail/instruction.png)](./videos/instruction.mp4)
 
 ---
 
 ## Solution Video
 The **Solution Video** demonstrates the complete resolution of the task presented in the Instruction Video. It includes step-by-step explanations, highlighting critical aspects of the implementation or reasoning.
 
-[![Solution Video Thumbnail](./thumbnail/solution.png)](./Solution.mp4)
+[![Solution Video Thumbnail](./thumbnail/solution.png)](./videos/Solution.mp4)
